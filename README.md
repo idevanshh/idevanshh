@@ -84,7 +84,7 @@ A catalog-style website for industrial safety products, including bulk inquiry w
 
 ---
 
-### Inquirier – Client Inquiry Management (Frontend Only)  
+### Inquirier – Client Inquiry Management 
 A lightweight web app for organizing and managing client inquiries using only frontend technologies.  
 **Live:** https://inquirier.vercel.app  
 

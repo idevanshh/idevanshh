@@ -62,6 +62,7 @@ I’m looking for opportunities where I can **learn fast, ship reliably, and con
 
 ## 📜 Certifications
 
+- REMAC+
 - Advanced Java  
 - Object-Oriented Programming  
 - Master C++ for Competitive Coding  

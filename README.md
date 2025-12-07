@@ -108,7 +108,6 @@ A lightweight web app for organizing and managing client inquiries using only fr
 ---
 ## 👀 Visitor Count
 
----
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=idevanshh&label=Profile%20Views&color=00ff99&style=for-the-badge"/>
 </p>

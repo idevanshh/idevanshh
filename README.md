@@ -104,7 +104,8 @@ A lightweight web app for organizing and managing client inquiries using only fr
 - Email: **[idevanshp955@gmail.com](mailto:idevanshp955@gmail.com)**  
 - LinkedIn: **[Devansh Patel](https://www.linkedin.com/in/devansh-patel-1b4011380/)**  
 - Location: **Kanpur, Uttar Pradesh, India**
-### 🛡️ **Greewin India – Safety P
+
+---
 ## 👀 Visitor Count
 
 ---

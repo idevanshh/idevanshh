@@ -16,7 +16,9 @@ I enjoy building **clear, logical, and efficient solutions** and I’m particula
 
 - Scalable backend systems  
 - Data-driven problem solving  
-- Clean, maintainable frontend architectures  
+- Clean, maintainable frontend architectures
+ 
+I am also deeply interested in **Reverse Engineering and Malware Analysis**, focusing on understanding system behavior, dissecting binaries, and analyzing software vulnerabilities for learning and research purposes.
 
 I’m looking for opportunities where I can **learn fast, ship reliably, and contribute to well-engineered projects**.
 
@@ -30,6 +32,10 @@ I’m looking for opportunities where I can **learn fast, ship reliably, and con
 - JavaScript  
 - C++  
 - C  
+
+**Security & Analysis**
+- Reverse Engineering (beginner/intermediate)
+- Malware Analysis (static & behavioral)
 
 **Backend & Systems**  
 - Spring Boot  

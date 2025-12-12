@@ -1,4 +1,4 @@
- <h1 align="center">Devansh Patel</h1>
+<h1 align="center">Devansh Patel</h1>
 <h3 align="center">CSE Undergrad | Software Developer (Java/Python) | DSA | Backend: Spring Boot, AWS Lambda, MySQL | Frontend: HTML, CSS, JS | Data Visualization | Ghidra Malware Analysis | ROS & Microcontrollers</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## 👨‍💻 About
 <p>
 CSE student specializing in Java, Python, Data Structures, and backend development. Skilled in Spring Boot, AWS Lambda, MySQL, automation, web scraping, and Python-based data visualization. Experienced in ROS, Arduino integration, and Ghidra-based malware analysis. Open to roles in software development, automation, backend engineering, and data workflows.
- ---
+
 </p>
 
 

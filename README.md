@@ -1,5 +1,5 @@
  <h1 align="center">Devansh Patel</h1>
-<h3 align="center">CSE Undergrad · Code, Data & Systems · Scalable Tech Enthusiast</h3>
+<h3 align="center">CSE Undergrad | Software Developer (Java/Python) | DSA | Backend: Spring Boot, AWS Lambda, MySQL | Frontend: HTML, CSS, JS | Data Visualization | Ghidra Malware Analysis | ROS & Microcontrollers</h3>
 
 <p align="center">
   <a href="mailto:idevanshp955@gmail.com">Email</a> •
@@ -11,17 +11,7 @@
 
 ## 👨‍💻 About
 
-I am a Computer Science Engineering undergrad from Kanpur, exploring the intersection of **coding, data, and system design**.  
-I enjoy building **clear, logical, and efficient solutions** and I’m particularly interested in:
-
-- Scalable backend systems  
-- Data-driven problem solving  
-- Clean, maintainable frontend architectures
- 
-I am also deeply interested in **Reverse Engineering and Malware Analysis**, focusing on understanding system behavior, dissecting binaries, and analyzing software vulnerabilities for learning and research purposes.
-
-I’m looking for opportunities where I can **learn fast, ship reliably, and contribute to well-engineered projects**.
-
+CSE student specializing in Java, Python, Data Structures, and backend development. Skilled in Spring Boot, AWS Lambda, MySQL, automation, web scraping, and Python-based data visualization. Experienced in ROS, Arduino integration, and Ghidra-based malware analysis. Open to roles in software development, automation, backend engineering, and data workflows.
 ---
 
 ## 🧰 Tech Stack
@@ -67,7 +57,11 @@ I’m looking for opportunities where I can **learn fast, ship reliably, and con
 - Object-Oriented Programming  
 - Master C++ for Competitive Coding  
 - Microsoft Excel  
-- Robot Operating System (ROS) with Arduino  
+- Robot Operating System (ROS) with Arduino
+- Python for IT Administrators
+- Data Visualization using Python
+- Javascript Algo and Data Structure V8
+- Responsive web design V8  
 
 ---
 

@@ -10,9 +10,11 @@
 ---
 
 ## 👨‍💻 About
-
+<p>
 CSE student specializing in Java, Python, Data Structures, and backend development. Skilled in Spring Boot, AWS Lambda, MySQL, automation, web scraping, and Python-based data visualization. Experienced in ROS, Arduino integration, and Ghidra-based malware analysis. Open to roles in software development, automation, backend engineering, and data workflows.
+</p>
 ---
+
 
 ## 🧰 Tech Stack
 

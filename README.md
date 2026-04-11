@@ -93,6 +93,13 @@ A lightweight web app for organizing and managing client inquiries using only fr
 
 ---
 
+### GATE Study Tracker - GATE Prepration tool
+A responsive GATE preparation tracker that helps users monitor their study progress across all subjects and branches.
+It features interactive checklists, analytics, export/share tools, and customizable study settings—all optimized for desktop and mobile.
+**Live:** https://gatepreptracker.vercel.app
+
+---
+
 ## 📊 GitHub Overview
 
 <p align="center">
